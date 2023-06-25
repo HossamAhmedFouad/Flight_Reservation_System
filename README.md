@@ -8,7 +8,7 @@ This is a Flight Reservation System built with C# and MS SQL Server. It allows u
 2. Open the solution in Visual Studio
 3. Build the solution to restore any NuGet packages
 4. Create a new MS SQL Server database
-5. Execute the SQL script (`FlightReservationSystem/SQLScripts/FlightReservation.sql`) to create the necessary tables and stored procedures
+5. Execute the SQL script (`FlightReservationSystem/Data Base Schema/Design SQL.sql`) to create the necessary tables and stored procedures
 6. Update the connection string in the `Web.config` file to point to your new database
 7. Run the application
 
